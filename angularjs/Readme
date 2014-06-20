@@ -1,0 +1,4 @@
+#VS2010_html_5 and VS2013-2-commonHTML5Types
+Source - http://madskristensen.net/post/angularjs-intellisense-in-visual-studio-2012
+Description - Provide intellisense support for Angularjs in Visual Studio 2010 and 2013.
+Steps - Find the file commonHTML5Types.xsd located in the Visual Studio install directory and replace them. (Back it up before replacing)
